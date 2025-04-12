@@ -20,6 +20,8 @@ Welcome to my GitHub! I'm currently diving deep into Python and Data Science, bu
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 
 ---
 
