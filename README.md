@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm currently diving deep into Python and Data Science, bu
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [Project-Name](GitHub-link) | Short description of what it does. | Python, Pandas |
+| [expense-tracker](https://github.com/habibsk09/expense-tracker) | A simple command-line app to track your daily expenses using Python and pandas. | Python, Pandas |
 | [Another-Project](GitHub-link) | Another quick summary. | HTML, CSS, JS |
 
 ---
